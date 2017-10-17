@@ -9,4 +9,15 @@
         <attr name="textUnCheckedColor" format="color"/>
         <attr name="backRectColor" format="color"/>
     </declare-styleable>
+    <declare-styleable name="SpringSwitchButton">
+        <attr name="leftText" format="string"/>
+        <attr name="rightText" format="string"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textPadding" format="dimension"/>
+        <attr name="textCheckedColor" format="color"/>
+        <attr name="textUnCheckedColor" format="color"/>
+        <attr name="switchColor" format="color"/>
+        <attr name="backgroundColor" format="color"/>
+        <attr name="borderPadding" format="dimension"/>
+    </declare-styleable>
 </resources>
